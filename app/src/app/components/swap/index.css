@@ -1,0 +1,25 @@
+.ant-btn-primary:hover {
+    background-color: #e4f4f4 !important;
+}
+
+.ant-input-outlined:focus-within{
+    outline: none !important;
+    border-color: #f9f9f9 !important;
+}
+
+.ant-input:focus {
+    outline: none !important;
+    border-color: #f9f9f9 !important;
+}
+
+*:input {
+    outline: none !important;
+}
+
+.middle-button:hover {
+    background-color: #ededed !important;
+}
+
+.token-div:hover {
+    background-color: #f9f9f9 !important;
+}
